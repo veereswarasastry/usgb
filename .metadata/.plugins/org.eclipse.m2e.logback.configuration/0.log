@@ -1,0 +1,171 @@
+2016-01-10 22:44:27,579 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\USGB_Workspace\usgb\pom.xml
+2016-01-10 22:44:27,585 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'core/pom.xml' E:\USGB_Workspace\usgb\core\pom.xml
+2016-01-10 22:44:27,586 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'ui.apps/pom.xml' E:\USGB_Workspace\usgb\ui.apps\pom.xml
+2016-01-10 22:44:27,586 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'ui.content/pom.xml' E:\USGB_Workspace\usgb\ui.content\pom.xml
+2016-01-10 22:44:27,586 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'it.tests/pom.xml' E:\USGB_Workspace\usgb\it.tests\pom.xml
+2016-01-10 22:44:27,586 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'it.launcher/pom.xml' E:\USGB_Workspace\usgb\it.launcher\pom.xml
+2016-01-10 22:44:47,703 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com:usgb:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\pom.xml.
+2016-01-10 22:44:53,782 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:44:55,199 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:44:55,603 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:44:55,797 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:44:56,750 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:45:03,159 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com:usgb:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\pom.xml.
+2016-01-10 22:45:03,204 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.core/src/main/java
+2016-01-10 22:45:03,660 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:45:04,711 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.core/src/test/java
+2016-01-10 22:45:05,335 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:45:05,697 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:45:05,878 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:45:06,278 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:45:06,527 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:45:06,808 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:45:07,084 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:45:07,159 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2016-01-10 22:45:07,166 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named com.usgb.core did not cause any content to be included, this is likely wrong
+2016-01-10 22:45:07,249 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:45:07,378 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:45:22,093 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.apps/src/main/java
+2016-01-10 22:45:22,094 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.apps/src/main/content/META-INF
+2016-01-10 22:45:22,101 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.apps/src/main/content/jcr_root
+2016-01-10 22:45:22,119 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.apps/src/test/java
+2016-01-10 22:45:22,326 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.content/src/main/java
+2016-01-10 22:45:22,327 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.content/src/main/content/META-INF
+2016-01-10 22:45:22,330 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.content/src/main/content/jcr_root
+2016-01-10 22:45:22,341 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.content/src/test/java
+2016-01-10 22:45:22,435 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.tests/src/main/java
+2016-01-10 22:45:22,447 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.tests/src/test/java
+2016-01-10 22:45:22,763 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2016-01-10 22:45:22,773 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named com.usgb.it.tests did not cause any content to be included, this is likely wrong
+2016-01-10 22:45:23,088 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.launcher/src/main/java
+2016-01-10 22:45:23,099 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.launcher/src/test/java
+2016-01-10 22:45:23,974 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 56 sec
+2016-01-10 22:45:30,987 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:45:33,024 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com:usgb:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\pom.xml.
+2016-01-10 22:45:33,195 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:45:33,395 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:45:33,613 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:45:33,783 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:45:34,298 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:46:34,465 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 63 sec
+2016-01-10 22:46:34,511 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:46:35,278 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:46:44,314 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.core/src/main/java
+2016-01-10 22:46:44,315 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.core/src/test/java
+2016-01-10 22:46:44,685 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2016-01-10 22:46:44,695 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named com.usgb.core did not cause any content to be included, this is likely wrong
+2016-01-10 22:46:46,037 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:46:55,120 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 20 sec
+2016-01-10 22:46:55,532 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:46:56,761 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:47:06,783 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.apps/src/main/java
+2016-01-10 22:47:06,783 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.apps/src/main/content/META-INF
+2016-01-10 22:47:06,784 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.apps/src/main/content/jcr_root
+2016-01-10 22:47:06,786 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.apps/src/test/java
+2016-01-10 22:47:07,165 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:47:17,074 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 21 sec
+2016-01-10 22:47:17,218 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:47:18,287 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:47:27,950 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.content/src/main/java
+2016-01-10 22:47:27,950 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.content/src/main/content/META-INF
+2016-01-10 22:47:27,951 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /usgb.ui.content/src/main/content/jcr_root
+2016-01-10 22:47:27,953 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.ui.content/src/test/java
+2016-01-10 22:47:28,426 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:47:37,307 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 20 sec
+2016-01-10 22:47:37,385 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:47:38,544 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:47:49,179 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.tests/src/main/java
+2016-01-10 22:47:49,180 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.tests/src/test/java
+2016-01-10 22:47:49,566 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2016-01-10 22:47:49,579 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest com:usgb.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named com.usgb.it.tests did not cause any content to be included, this is likely wrong
+2016-01-10 22:47:50,189 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:47:59,473 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 22 sec
+2016-01-10 22:47:59,760 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-10 22:48:00,078 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:48:09,722 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.launcher/src/main/java
+2016-01-10 22:48:09,723 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /usgb.it.launcher/src/test/java
+2016-01-10 22:48:09,932 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2016-01-10 22:48:11,922 [Worker-0] WARN  o.a.j.spi2dav.RepositoryServiceImpl - Authentication required to access repository descriptors
+2016-01-10 22:48:12,195 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com:usgb:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\pom.xml.
+2016-01-10 22:48:12,338 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:48:12,617 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:48:12,645 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:48:12,646 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\core\src\main\resources
+2016-01-10 22:48:14,530 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:48:15,303 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:48:15,366 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating 1 MetaType Descriptors in E:\USGB_Workspace\usgb\core\target\classes\OSGI-INF\metatype\com.usgb.core.schedulers.SimpleScheduledTask.xml
+2016-01-10 22:48:15,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\USGB_Workspace\usgb\core\target\classes\OSGI-INF\com.usgb.core.servlets.SimpleServlet.xml
+2016-01-10 22:48:15,378 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\USGB_Workspace\usgb\core\target\classes\OSGI-INF\com.usgb.core.schedulers.SimpleScheduledTask.xml
+2016-01-10 22:48:15,385 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\USGB_Workspace\usgb\core\target\classes\OSGI-INF\com.usgb.core.listeners.SimpleResourceListener.xml
+2016-01-10 22:48:15,386 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\USGB_Workspace\usgb\core\target\classes\OSGI-INF\com.usgb.core.filters.LoggingFilter.xml
+2016-01-10 22:48:15,393 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:48:15,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\core\src\test\resources
+2016-01-10 22:48:15,643 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:48:17,014 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.core:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\core\pom.xml.
+2016-01-10 22:48:17,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:48:17,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.tests\src\main\resources
+2016-01-10 22:48:17,336 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:48:17,336 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.tests\src\test\resources
+2016-01-10 22:48:17,976 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.launcher:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.launcher\pom.xml.
+2016-01-10 22:48:18,622 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:usgb.it.tests:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\it.tests\pom.xml.
+2016-01-10 22:48:19,077 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.apps:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.apps\pom.xml.
+2016-01-10 22:48:19,233 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:19,293 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com:usgb.ui.content:0.0.1-SNAPSHOT @ E:\USGB_Workspace\usgb\ui.content\pom.xml.
+2016-01-10 22:48:19,376 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:19,586 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:19,842 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:19,973 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:20,146 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:20,313 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:20,394 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:20,540 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:21,159 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:21,667 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:22,209 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:22,436 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:22,778 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:22,822 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:23,107 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:23,489 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:23,911 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,097 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,103 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,404 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,583 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,756 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,915 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,950 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:24,955 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:25,490 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:25,811 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:25,817 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:48:25,914 [Worker-0] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2016-01-10 22:49:07,414 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,414 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\core\src\main\resources
+2016-01-10 22:49:07,469 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,470 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\core\src\test\resources
+2016-01-10 22:49:07,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.tests\src\main\resources
+2016-01-10 22:49:07,569 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,569 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.tests\src\test\resources
+2016-01-10 22:49:07,904 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,905 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.launcher\src\main\resources
+2016-01-10 22:49:07,906 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,907 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\it.launcher\src\test\resources
+2016-01-10 22:49:07,981 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,982 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\ui.apps\META-INF
+2016-01-10 22:49:07,990 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:07,992 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2016-01-10 22:49:08,141 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 60 resources
+2016-01-10 22:49:08,367 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:08,367 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\ui.apps\src\test\resources
+2016-01-10 22:49:08,490 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:08,490 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\ui.content\META-INF
+2016-01-10 22:49:08,492 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:08,493 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2016-01-10 22:49:08,504 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2016-01-10 22:49:08,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-10 22:49:08,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\USGB_Workspace\usgb\ui.content\src\test\resources
+2016-01-10 22:49:49,775 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-10 22:49:58,949 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\USGB_Workspace\usgb
+2016-01-10 22:49:58,950 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install

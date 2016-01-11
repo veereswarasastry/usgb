@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1452437420013
+Build-Jdk: 1.8.0_65
+Built-By: ND - Yvonne
+Bundle-Description: Bundles for Integration Tests for usgb
+Bundle-ManifestVersion: 2
+Bundle-Name: usgb - Integration Tests Bundles
+Bundle-SymbolicName: com.usgb.it.tests
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.usgb.it.tests;version="0.0.1";uses:="org.apache.slin
+ g.junit.annotations,org.junit,org.junit.runner"
+Import-Package: com.usgb.core.models;version="[0.0,1)",org.apache.sling.
+ junit.annotations;version="[1.0,2)",org.apache.sling.settings;version="
+ [1.3,2)",org.junit,org.junit.runner
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Sling-Test-Regexp: .*Test
+Tool: Bnd-2.3.0.201405100607
